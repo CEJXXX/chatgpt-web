@@ -16,8 +16,8 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
-      name: 'CEJX',
-      description: 'Welcome to Test <a href="http://www7.cejxxx.cn" class="text-blue-500" target="_blank" >CEJX</a> chat',
+      name: 'APSAT',
+      description: 'Welcome to <a href="https://apsat.com" class="text-blue-500" target="_blank" >APSAT</a> chat',
     },
   }
 }
